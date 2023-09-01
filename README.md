@@ -50,7 +50,7 @@ Seu objetivo nesse desafio é implementar um backend capaz de suprir esse modelo
     1. MVC (Model-View-Controller)
     2. BDD (Behavior-Driven-Development)
     3. DDD (Domain-Driven-Development)
-       1.1 Lembre-se que há frameworks que são restritivos em relação a esta parte, e isso irá e deve ser levado em consideração ao escolher uma estrutura.
+- Lembre-se que há frameworks que são restritivos em relação a estrutura de pastas, e isso irá e deve ser levado em consideração ao escolher uma estrutura.
 
 ## ✔️ Critérios de Avaliação
 
